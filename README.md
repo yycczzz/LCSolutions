@@ -1,2 +1,2 @@
 # LCSolutions
-Solutions of LeetCode Problems
+Solutions to LeetCode Problems
